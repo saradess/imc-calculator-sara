@@ -11,10 +11,11 @@
     }
 
     :root {
-        --corPrincipal: #030807;
+        --corPrincipal: #061007;
         --corSecundaria: #cf8528;
         --corLink: #223c33;
         --corErro: #ff4d4f;
-        --corBotao: #007bff;
-        --corBotaoHover: #0056b3;
+        --corBotao: #173C1C;
+        --corBotaoHover: #3C5F34;
     }
+    
